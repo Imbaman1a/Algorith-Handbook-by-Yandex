@@ -1,1 +1,1 @@
-# Algorith-Handbook-by-Yandex
+# Algorithm-Handbook-by-Yandex
